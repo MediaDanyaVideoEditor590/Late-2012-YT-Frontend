@@ -25,7 +25,22 @@
    <br>
    <h3>  Changelog </h3>
    <ul class="html5-compatibility-table">
+   <li>
+        <div class="yt-alert yt-alert-naked yt-alert-success  " id="c-video">
+            <div class="yt-alert-content" role="alert">    
+               Version 2.3
+            </div>
+         </div>
+      </li>
       <li>
+         <div class="yt-alert yt-alert-naked yt-alert-success  " id="c-video">
+            <div class="yt-alert-content" role="alert">    
+            Fixed home page, watch page, and etc 
+            </div>
+         </div>
+      </li>
+     <li>
+   <li>
         <div class="yt-alert yt-alert-naked yt-alert-success  " id="c-video">
             <div class="yt-alert-content" role="alert">    
                Version 2.2

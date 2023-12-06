@@ -140,7 +140,7 @@ Browse channels
 Sign in to add channels to your guide and for great recommendations!
     </p>
     <div id="guide-builder-promo-buttons" class="signed-out clearfix">
-      <a href="https://web.archive.org/web/20121230023058/https://accounts.google.com/ServiceLogin?hl=en_US&amp;service=youtube&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Den_US%26next%3D%252F%253Ffeature%253Dsignin%26nomobiletemp%3D1&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-hh-primary" data-sessionlink="ei=CPyeyIWLwbQCFZkQIQodPx8kow%3D%3D"><span class="yt-uix-button-content">Sign in ›</span></a>
+      <a href="https://accounts.google.com/InteractiveLogin/identifier?amp%3Bcontinue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Den%26next%3D%252F%26feature%3Dsign_in_button&amp%3Bhl=en&amp%3Bpassive=true&amp%3Builel=3&service=youtube&ifkv=ASKXGp2Hmr9gItavvGFbmnsbMeLV3DhszApUZrOnxrBSrqNFwZJtJfMLL6Jm1ULkXugmu0dLym41&theme=glif&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Sign in ›</span></a>
     </div>
   </div>
 
